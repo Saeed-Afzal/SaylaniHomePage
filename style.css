@@ -1,0 +1,395 @@
+.class1{
+    background-color:#1449db;
+    margin-top: -7px;
+    height: 40px;
+
+}
+.inner{
+    padding-left: 15px;
+ 
+}
+
+.spacing{
+    letter-spacing: 20px;
+}
+.text1{
+    display: inline-block;
+    padding-left: 120px;
+
+}
+
+.btntop{
+    position: right;
+    display: inline-block;
+    padding-left: 75px;
+}
+
+.btn1{
+    cursor: pointer;
+    width: 75px;
+    height: 20px;
+    
+}
+
+.btn2{
+    cursor: pointer;
+    width: 80;
+    height: 20px;
+}
+.btn3{
+    cursor: pointer;
+    width: 100px;
+    height: 20px;
+}
+
+
+.nav{
+    float: right; 
+  
+    margin-left: 40px;
+    padding-right: 180px;
+    margin-top: 20px;
+   
+}
+
+#div2{
+    background-color: #1449db;
+    margin-top: 10px  ;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#navp{
+    color: white;
+}
+
+.para{
+    text-align: center;
+}
+
+.row{
+    width: 100%;
+    background-color: #1449db;
+    height: 215px;
+    margin-top: 20px;
+}
+
+.wite{
+    color: white;
+    font-size: 26px;
+}
+.leftspac{
+    padding-left: 50px;
+    margin-top: 40px;
+    display: inline-block;
+}
+
+.below{
+    background-color: #d8dfeb;
+}
+
+.whit{
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    padding-left: 250px;
+    margin-top: 70px;
+    box-shadow: black;
+}
+
+.whit2{
+    
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    padding-left: 350px;
+    margin-top: 70px;
+}
+
+.whit3{
+    
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    padding-left: 300px;
+    margin-top: 70px;
+}
+
+.housing{
+    display: inline-block;
+    padding-left: 70px;
+    cursor: pointer;
+}
+
+.housing1{
+    display: inline-block;
+    padding-left: 235px;
+    margin-top: -160px;
+}
+
+.events{
+    text-align: right;
+    padding-right: 105px;
+    margin-top: -247px;
+
+}
+
+
+
+
+
+
+
+
+/* nav bar */
+
+/* ul{
+
+margin: 0px;
+padding: 0px;
+list-style: none;
+
+}
+
+ul li{
+
+
+
+float: left;
+
+width: 130px;
+height: 30px;
+background-color:white;
+
+line-height: 30px;
+text-align: center;
+font-size: 12px;
+
+
+}
+
+ul li a {
+text-decoration: none;
+border-radius: 20px;
+transition: .3s;
+
+display: block;
+}
+
+ul li a:hover{
+
+background-color:skyblue;
+
+}
+
+ul li ul li{
+
+display: none;
+
+
+
+}
+ul li:hover ul li {
+    display: block;
+} */
+
+
+
+.intro{
+
+color:#0105FA;
+
+}
+
+.duction{
+    color: green;
+}
+.par{
+font-size: 18px;
+    height: 500px;
+    width: 1000px;
+    margin: 0 auto;
+color: grey;
+
+
+
+}
+
+
+
+.count{
+
+    
+width: 100%;
+height: 290px;
+background-color:#316DC3;
+color: white;
+}
+
+
+
+.month{
+    color: green;
+} 
+
+.column{
+    background-color: #316DC3 ;
+float: left;
+padding: 5px;
+width: 300px;
+
+
+}
+
+.row:after{
+content: "";
+clear: both;
+display: table;
+
+
+}
+
+
+.do{
+
+    text-align: center;
+
+}
+
+
+.what{
+
+color: blue;
+
+}
+.doing{
+
+color: green;
+
+}
+
+
+
+
+.foot{
+    width: 100%;
+    background-color: #1449db;
+    height: 285px;
+    margin-top: 20px;
+}
+.foot:after{
+
+    content: "";
+    clear: both;
+    display: table;
+
+}
+.office{
+padding-left: 50;
+}
+
+.last{
+height: 20px;
+background-color: #1449db;
+
+padding: 20px;
+
+}
+
+
+
+/* nav bar */
+nav{
+    cursor: pointer;
+    
+    }
+    
+    nav:after{
+    content: '';
+    clear: both;
+    display: table;
+    }
+    
+    
+    
+    nav ul{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: right;
+    list-style:none;
+    padding-top: -150px;
+    margin-right: 20px;
+    position: relative;
+    
+    }
+    
+    nav ul li{
+    float: left;
+    display: inline-block;
+    background-color:white;
+    margin: 0px 5px;
+    
+    }
+    
+    nav ul li a{
+    color: black;
+    text-decoration: none;
+    line-height: 40px;
+    font-size: 18px;
+    padding: 5px 15px;
+    }
+    nav ul li a:hover{
+        
+        color:white;
+        background-color: blue;
+        border-radius: 15px;
+        box-shadow: 0 0 3px white,
+                0 0 3px white;
+    }
+    
+    nav ul ul li a:hover{
+    
+    color: white;
+    box-shadow: none;
+    
+    }
+    
+    
+    nav ul ul{
+    position: absolute;
+    top: 90px;
+    
+    opacity: 0;
+    visibility:hidden ;
+    transition: top.3s;
+    
+    }
+    
+    nav ul li:hover > ul{
+       
+        top: 40px;
+        opacity: 1;
+        visibility:visible;
+    }
+    
+    nav ul ul li{
+    position: relative;
+    margin: 0px;
+    width: 250px;
+    float: none;
+    display: list-item;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+    }
+    
+    nav ul ul li a{
+    line-height: 2;
+    
+    
+    }
+    
+    nav ul ul ul li{
+    position: relative;
+    top: -40px;
+    left: 210px;
+    
+    
+    }
